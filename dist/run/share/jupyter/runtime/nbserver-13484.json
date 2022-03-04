@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "F:\\canspirit\\transfer-learning-on-object-detection-models-main",
+  "password": false,
+  "pid": 13484,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "30d3bf5738de00e1597884262cb980792e46b15ea87b03a8",
+  "url": "http://localhost:8888/"
+}
